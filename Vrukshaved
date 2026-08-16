@@ -1,0 +1,18 @@
+Vrukshaved/
+├── .github/
+│   └── workflows/
+│       └── build-apk.yml
+├── app/
+│   ├── build.gradle.kts
+│   └── src/
+│       └── main/
+│           ├── AndroidManifest.xml
+│           └── java/
+│               └── com/
+│                   └── vrukshaved/
+│                       └── app/
+│                           └── MainActivity.kt
+├── build.gradle.kts
+├── gradle.properties
+├── settings.gradle.kts
+└── README.md
